@@ -1,10 +1,10 @@
-#Tic-Tac-Toe
+# Tic-Tac-Toe
 Command line Tic-Tac-Toe(TTT) game. Implemented in an MVC pattern with C++ 
 
-#Requirments
+# Requirments
 * C++11 or higher
 
-#Classes
+# Classes
 * ModelTicTacToe(MTT)
 * Player
 * ControllerTicTacToe(CTT)
